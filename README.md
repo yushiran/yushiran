@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Hi, I'm Shiran Yu!
 
-<!--
-**yushiran/yushiran** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Student in **Integrated Machine Learning Systems** at **UCL**  
+🔍 Research Interests: **Medical Image Analysis**, **Generative Models**, and **Reliable AI Systems**  
+💡 Passionate about **AI-Generated Content (AIGC)** and its applications in healthcare.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📊 GitHub Stats
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yushiran&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yushiran&layout=compact&theme=radical)
+
+---
+
+## 🌟 Contribution Graph
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=yushiran&theme=radical)
