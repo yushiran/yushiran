@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Shiran Yu!
+# 👋 Hi
 
 🎓 MSc Student in **Integrated Machine Learning Systems** at **UCL**  
 🔍 Research Interests: **Medical Image Analysis**, **Generative Models**, and **Reliable AI Systems**  
