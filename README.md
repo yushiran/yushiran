@@ -1,8 +1,8 @@
 # 👋 Hi
 
-🎓 Phd Student in **Engineering mathamatics** at **University of Bristol**  
-🔍 Research Interests: **Medical Image Analysis**, **Generative Models**, and **Reliable AI Systems**  
-💡 Passionate about **AI-Generated Content (AIGC)** and its applications in healthcare.  
+Phd Student in **Engineering mathamatics** at **University of Bristol**  
+Research Interests: **Medical Image Analysis**, **Generative Models**, and **Reliable AI Systems**  
+Passionate about **AI-Generated Content (AIGC)** and its applications in healthcare.  
 
 ---
 
